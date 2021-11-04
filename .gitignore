@@ -4,4 +4,3 @@ gradle
 gradle*
 .gradle
 build
-build.gradle
